@@ -1,0 +1,20 @@
+npm start
+S
+npm start
+S
+git init
+git add a
+git add *
+git commit -m "preload em angular" 
+git remote add origin https://github.com/elsonss1988/ngxLearn.git
+git remote rm origin
+git remote add origin https://github.com/elsonss1988/ngxLearn.git
+git push origin master
+ng -v
+ng --version
+ng g m list-example --route listExample --module app.module
+ng g service list-example/example-service 
+history
+histor
+doskey /HISTORY
+doskey /HISTORY > commandNG
